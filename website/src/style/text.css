@@ -1,0 +1,16 @@
+.text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-grow: 1;
+  width: 55%;
+  box-sizing: border-box;
+  padding: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: justify;
+  /* overflow: hidden; */
+  font-size: large;
+  font-size: 1.3em;
+  line-height: 1.2;
+}

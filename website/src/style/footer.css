@@ -1,0 +1,25 @@
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-top: 1px solid #e0e0e0;
+  background-color: #f8f9fa;
+  gap: -10px;
+}
+
+.footer-title {
+  margin-top: 10px;
+  margin-bottom: -20px;
+}
+
+.devs {
+  display: flex;
+  justify-content: space-around;
+  padding: 0 0 0 0;
+  gap: 40px;
+  min-height: 30vh;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 10px;
+}

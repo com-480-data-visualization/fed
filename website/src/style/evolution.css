@@ -1,0 +1,9 @@
+.chart {
+  flex: 0 0 50%;
+  padding-top: 30px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  box-shadow: 0 0px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}

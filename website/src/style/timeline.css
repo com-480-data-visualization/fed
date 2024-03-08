@@ -1,0 +1,19 @@
+.vertical-timeline-element--work > .title-container {
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: space-around;
+}
+    
+.vertical-timeline-element-title,
+.vertical-timeline-element-subtitle {
+    margin: 5px 0; 
+    text-align: center; 
+}
+  
+img {
+    max-width: 100%; 
+    height: auto;
+}

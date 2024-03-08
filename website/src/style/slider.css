@@ -1,0 +1,139 @@
+.ranking {
+  margin-bottom: 10vh;
+}
+
+.ranking-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2.2em;
+}
+
+.ranking-description { 
+  font-size: 1.3em;
+  padding-right: 20px;
+  padding-left: 2px;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.ranking-subtitle {
+  font-size: 1.5em;
+  padding-right: 20px;
+  padding-left: 2px;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.year_selector {
+  border-radius: 10px;
+  background-color: #f7ffc2;
+  text-align: center;
+  font-size: medium;
+  font-weight: bold;
+  text-decoration: none;
+  border: 2px solid #ccb702;
+  box-shadow: 0 0px 8px rgba(203, 203, 2, 0.37);
+  margin-right: 34px;
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.slider {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.slider-text {
+  margin-top: -50px;
+  padding-right: 30px;
+  padding-left: 5px;
+  text-align: justify;
+}
+
+.slick-slide {
+  box-sizing: border-box;
+  padding: 0 10px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.slick-track {
+  display: flex;
+  align-items: stretch;
+  padding-right: 24px;
+}
+
+.slick-list {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: -15px;
+  padding-right: 15px;
+  margin: auto;
+}
+
+
+/* the parent */
+.slick-list {
+  margin: 0 10px;
+}
+
+.button-dots {
+  display: inline-block;
+  vertical-align: middle;
+  margin: auto;
+  margin-top: 20px;
+  padding: 0;
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.button-dots li {
+  list-style: none;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0 7px;
+  padding: 0;
+}
+
+.button-dots li button {
+  border: none;
+  background: rgb(190, 190, 190);
+  color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 13px;
+  width: 15px;
+  border-radius: 8.5px;
+  transition: width 0.3s cubic-bezier(0.4, 0, 0.2, 1); /* transition ajoutée ici */
+}
+
+.button-dots li.slick-active button {
+  background: linear-gradient(
+    270deg,
+    rgb(250, 224, 27) 0%,
+    rgba(240, 223, 24) 100%
+  );
+  height: 13px;
+  width: 42px;
+}
+
+.button-dots li button:hover {
+  background: linear-gradient(
+    270deg,
+    rgb(250, 224, 27) 0%,
+    rgb(240, 223, 24) 100%
+  );
+  outline: 0;
+}

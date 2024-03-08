@@ -1,0 +1,123 @@
+.title-color-1 {
+  color: #cbae0a;
+}
+
+.title-color-2 {
+  color: #717070;
+}
+
+.title-color-3 {
+  color: #aa6601;
+}
+
+.player-card h2 {
+  -webkit-line-clamp: 1;
+}
+
+.title-color {
+  color: black;
+}
+
+.player-card-color {
+  background: rgba(238, 238, 238, 0.412);
+  box-shadow: 0 4px 20px rgba(180, 180, 180, 0.45);
+  border: 1.7px solid rgba(180, 180, 180, 0.46);
+}
+
+.player-card-color-1 {
+  /* background: linear-gradient(
+    114.3deg,
+    rgba(216, 188, 31, 0.454) 0.2%,
+    rgba(255, 219, 12, 0.634) 68.5%
+  ); */
+  background: rgba(216, 188, 31, 0.539);
+  box-shadow: 0 4px 20px rgba(228, 197, 18, 0.45);
+  border: 1.7px solid rgba(216, 188, 31, 0.48);
+}
+
+.player-card-color-1:hover {
+  transform: scale(1.01);
+  box-shadow: 0 0 20px rgba(255, 219, 12, 0.7); /* Adjusted glow effect */
+  filter: brightness(1.1);
+}
+
+.player-card:hover {
+  filter: brightness(1.1); /* Slight brightness boost */
+  scale: 1.02;
+}
+
+.player-card-color-2 {
+  background: rgba(147, 147, 147, 0.35);
+  box-shadow: 0 4px 20px rgba(107, 107, 106, 0.4);
+  border: 1.7px solid rgba(147, 147, 147, 0.46);
+}
+.player-card-color-3 {
+  background: rgba(192, 115, 0, 0.598);
+  box-shadow: 0 4px 20px rgba(192, 115, 0, 0.45);
+  border: 1.7px solid rgba(192, 115, 0, 0.46);
+}
+
+.player-card {
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  border-radius: 16px;
+  backdrop-filter: blur(8.6px);
+  -webkit-backdrop-filter: blur(8.6px);
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 0.6s;
+  box-sizing: border-box;
+  cursor: grab;
+}
+
+.player-card:active {
+  cursor: grabbing;
+}
+
+.player-card h1 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  font-size: 3em;
+  font-weight: 900;
+}
+
+.player-card .content {
+  display: flex;
+  align-items: flex-start;
+  height: 250px;
+}
+
+.image-container {
+  flex: 0 0 150px;
+  margin-right: 20px;
+}
+
+.image-container img {
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0px 8px rgba(0, 0, 0, 0.45);
+}
+
+.info {
+  flex: 1;
+  align-items: left;
+  height: 200px;
+  padding: 2px;
+  font-weight: 500;
+  font-family: "Open Sauce One", sans-serif;
+}
+
+.cards-container-top-3 {
+  perspective: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.player-name {
+  white-space: nowrap;
+}

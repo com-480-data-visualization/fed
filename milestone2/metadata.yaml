@@ -1,0 +1,17 @@
+---
+title: ""#"\\sffamily{\\textbf{COM-480: Data Visualization}}\\vspace{-0.5cm}"
+author: E. Michelin, A. Doukhan, F. Dumoncel
+date: April 26, 2024
+header-includes: |
+  \usepackage{fancyhdr}
+  \thispagestyle{plain}
+  \pagestyle{fancy}
+  \fancyhead[CO,CE]{FED Team}
+  \fancyhead[LE,RO]{EPFL}
+  \fancyfoot[CO,CE]{\thepage}
+geometry: "left=2cm,right=2cm,top=1.7cm,bottom=1.7cm"
+bibliography: m1.bib
+csl: citation.csl
+output: pdf_document
+---
+

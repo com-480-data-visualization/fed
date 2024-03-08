@@ -1,0 +1,79 @@
+.alternative 
+{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+  overflow: auto;
+  flex-direction: row;
+  margin: 10px;
+  font-style: italic;
+  color: #121212;
+}
+
+.flight-info {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-items: center;
+  align-content: center;
+  overflow: auto;
+  flex-direction: row;
+  margin: auto;
+}
+
+.city {
+  text-align: center;
+  margin: 0 20px;
+}
+
+.iata-code {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.city-name {
+  display: block;
+  font-size: 16px;
+}
+
+.separator {
+  border-right: 3px dotted #070000b3;
+  height: 40px;
+  margin: 0 35px;
+  transform: rotate(90deg);
+}
+
+.plane-icon {
+  font-size: 24px;
+}
+
+.numbers {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+  align-content: center;
+  flex-direction: column;
+  margin-top: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.stat {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+.label {
+  font-size: large;
+  font-weight: bold;
+}
+
+.value {
+  font-size: large;
+}

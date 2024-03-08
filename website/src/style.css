@@ -1,0 +1,77 @@
+@import url("https://fonts.cdnfonts.com/css/sf-pro-display");
+
+:root {
+  --secondary-glow: conic-gradient(
+    from 10deg at 50% 50%,
+    #eb7494 0deg,
+    #ae77b2 55deg,
+    #df7620 120deg,
+    #cac700 160deg,
+    transparent 360deg
+  );
+
+  --third-glow: conic-gradient(
+    from 90deg at 50% 50%,
+    #ff8b7e 0deg,
+    #e24e6b 160deg,
+    #dab27e 120deg,
+    #ec923f 55deg,
+    transparent 360deg
+  );
+  --white-bg: #fbfbfb;
+  --black-bg: #161616;
+  --yellow: #d6d00a;
+  --green: #1aa907;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+  margin-top: 0px;
+  padding: 0;
+  font-family: 'SF Pro Display', sans-serif;
+  scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+  background: transparent;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.fancy {
+  --b: 4px;   /* control the border thickness */
+   --w: 35vw;  /* control the width of the line */
+  --g: 40px;  /* control the gap */
+  --c:  #121212;
+ 
+  width: fit-content;
+  padding: 0 1em;
+  line-height: 1.6em;
+  border: 1px solid;
+  color: #121212;
+  background-size: 51% 100%;
+  background-origin: border-box;
+  background-repeat: no-repeat;
+  border-image: 
+     linear-gradient(
+       #0000      calc(50% - var(--b)/2),
+       var(--c) 0 calc(50% + var(--b)/2),
+       #0000    0) 
+    1/0 var(--w)/calc(var(--w) + var(--g));
+  margin-inline: auto;
+  overflow: hidden;
+}
+
+.title { 
+    font-size: 2.5em; 
+    font-weight: 900;
+}

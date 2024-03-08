@@ -1,0 +1,51 @@
+h2 { 
+    font-size: 1.5em;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+.card.selected {
+    box-shadow: 0 4px 20px rgba(84, 196, 58, 0.2);
+    border: 3px solid rgba(38, 125, 19, 0.539);
+    border-radius: 8px;
+    background: rgba(84, 196, 58, 0.2);
+    cursor: pointer;
+}
+
+.card {
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.card input[type="checkbox"]:checked + label {
+    color: rgb(4, 88, 4);
+    display: block;
+    font-weight: 500;
+}
+
+.card input[type="checkbox"] {
+    display: none;
+}
+  
+.card label {
+    display: block;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.card input label {
+    cursor: pointer;
+}
+
+.date {
+    font-size: smaller;
+    color: #666;
+    white-space: nowrap;
+}
+

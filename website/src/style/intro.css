@@ -1,0 +1,17 @@
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:50vh;
+    margin-bottom: 15em;
+    padding-left: 10px;
+    padding-right: 50px;
+}
+
+.intro-text {
+    font-size: 1.3em;
+    padding-left: 0px;
+    text-align: justify;
+    line-height: 1.5;
+}
