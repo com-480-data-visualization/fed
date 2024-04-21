@@ -1,0 +1,67 @@
+,index,date,venue,name,winner,cat,from,to,from_dt,to_dt,city,country,coords,continent,idx
+0,2,"31 December, 2023 - 7 January, 2024","Brisbane, Australia",Brisbane International presented by Evie,Grigor Dimitrov,ATP 250,"31 December, 2023","07 January, 2024",2023-12-31,2024-01-07,Brisbane,Australia,"(-27.4689682, 153.0234991)",Oceania,0
+1,3,"1 - 7 January, 2024","Hong Kong, Hong Kong",Bank of China Hong Kong Tennis Open,Andrey Rublev,ATP 250,"01 January, 2024","07 January, 2024",2024-01-01,2024-01-07,Hong Kong,Hong Kong,"(22.2793278, 114.1628131)",Asia,1
+2,4,"8 - 13 January, 2024","Adelaide, Australia",Adelaide International,Jiri Lehecka,ATP 250,"08 January, 2024","13 January, 2024",2024-01-08,2024-01-13,Adelaide,Australia,"(-34.9281805, 138.5999312)",Oceania,2
+3,5,"8 - 13 January, 2024","Auckland, New Zealand",ASB Classic,Alejandro Tabilo,ATP 250,"08 January, 2024","13 January, 2024",2024-01-08,2024-01-13,Auckland,New Zealand,"(-36.852095, 174.7631803)",Oceania,2
+4,6,"14 - 28 January, 2024","Melbourne, Australia",Australian Open,Jannik Sinner,Grand Slam,"14 January, 2024","28 January, 2024",2024-01-14,2024-01-28,Melbourne,Australia,"(-37.8142454, 144.9631732)",Oceania,3
+5,7,"29 January - 4 February, 2024","Montpellier, France",Open Sud de France – Montpellier,Alexander Bublik,ATP 250,"29 January, 2024","04 February, 2024",2024-01-29,2024-02-04,Montpellier,France,"(43.6112422, 3.8767337)",Europe,4
+6,9,"5 - 11 February, 2024","Dallas, United States",Dallas Open,Tommy Paul,ATP 250,"05 February, 2024","11 February, 2024",2024-02-05,2024-02-11,Dallas,United States,"(32.7762719, -96.7968559)",North America,5
+7,10,"5 - 11 February, 2024","Marseille, France",Open 13 Provence,Ugo Humbert,ATP 250,"05 February, 2024","11 February, 2024",2024-02-05,2024-02-11,Marseille,France,"(43.2961743, 5.3699525)",Europe,5
+8,11,"5 - 11 February, 2024","Cordoba, Argentina",Cordoba Open,Luciano Darderi,ATP 250,"05 February, 2024","11 February, 2024",2024-02-05,2024-02-11,Cordoba,Argentina,"(-31.4166867, -64.1834193)",South America,5
+9,12,"12 - 18 February, 2024","Rotterdam, Netherlands",ABN AMRO Open,Jannik Sinner,ATP 500,"12 February, 2024","18 February, 2024",2024-02-12,2024-02-18,Rotterdam,Netherlands,"(51.9244424, 4.47775)",Europe,6
+10,13,"12 - 18 February, 2024","Delray Beach, United States",Delray Beach Open,Taylor Fritz,ATP 250,"12 February, 2024","18 February, 2024",2024-02-12,2024-02-18,Delray Beach,United States,"(26.4614625, -80.0728201)",North America,6
+11,14,"12 - 18 February, 2024","Buenos Aires, Argentina",IEB+ Argentina Open,Facundo Diaz Acosta,ATP 250,"12 February, 2024","18 February, 2024",2024-02-12,2024-02-18,Buenos Aires,Argentina,"(-34.6037181, -58.38153)",South America,6
+12,15,"19 - 25 February, 2024","Rio de Janeiro, Brazil",Rio Open presented by Claro,Sebastian Baez,ATP 500,"19 February, 2024","25 February, 2024",2024-02-19,2024-02-25,Rio de Janeiro,Brazil,"(-22.9110137, -43.2093727)",South America,8
+13,16,"19 - 24 February, 2024","Doha, Qatar",Qatar ExxonMobil Open,Karen Khachanov,ATP 250,"19 February, 2024","24 February, 2024",2024-02-19,2024-02-24,Doha,Qatar,"(25.2856329, 51.5264162)",Asia,7
+14,17,"19 - 24 February, 2024","Los Cabos, Mexico",Mifel Tennis Open by Telcel Oppo,Jordan Thompson,ATP 250,"19 February, 2024","24 February, 2024",2024-02-19,2024-02-24,Los Cabos,Mexico,"(21.166121, -100.936442)",North America,7
+15,18,"26 February - 2 March, 2024","Dubai, United Arab Emirates",Dubai Duty Free Tennis Championships,Ugo Humbert,ATP 500,"26 February, 2024","02 March, 2024",2024-02-26,2024-03-02,Dubai,United Arab Emirates,"(25.074282349999997, 55.18853865430702)",Asia,9
+16,19,"26 February - 2 March, 2024","Acapulco, Mexico",Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,ATP 500,"26 February, 2024","02 March, 2024",2024-02-26,2024-03-02,Acapulco,Mexico,"(16.8680495, -99.8940182)",North America,9
+17,20,"26 February - 3 March, 2024","Santiago, Chile",Movistar Chile Open,Sebastian Baez,ATP 250,"26 February, 2024","03 March, 2024",2024-02-26,2024-03-03,Santiago,Chile,"(-33.4377756, -70.6504502)",South America,10
+18,21,"6 - 17 March, 2024","Indian Wells, United States",BNP Paribas Open,Carlos Alcaraz,ATP 1000,"06 March, 2024","17 March, 2024",2024-03-06,2024-03-17,Indian Wells,United States,"(33.7217965, -116.338303)",North America,11
+19,22,"20 - 31 March, 2024","Miami, United States",Miami Open presented by Itau,,ATP 1000,"20 March, 2024","31 March, 2024",2024-03-20,2024-03-31,Miami,United States,"(25.7741728, -80.19362)",North America,12
+20,23,"1 - 7 April, 2024","Houston, United States",Fayez Sarofim & Co. U.S. Men's Clay Court Championship,,ATP 250,"01 April, 2024","07 April, 2024",2024-04-01,2024-04-07,Houston,United States,"(29.7589382, -95.3676974)",North America,13
+21,24,"1 - 7 April, 2024","Marrakech, Morocco",Grand Prix Hassan II,,ATP 250,"01 April, 2024","07 April, 2024",2024-04-01,2024-04-07,Marrakech,Morocco,"(31.6258257, -7.9891608)",Africa,13
+22,25,"1 - 7 April, 2024","Estoril, Portugal",Millennium Estoril Open,,ATP 250,"01 April, 2024","07 April, 2024",2024-04-01,2024-04-07,Estoril,Portugal,"(38.70957065, -9.390136815849147)",Europe,13
+23,26,"7 - 14 April, 2024","Monte-Carlo, Monaco",Rolex Monte-Carlo Masters,,ATP 1000,"07 April, 2024","14 April, 2024",2024-04-07,2024-04-14,Monte-Carlo,Monaco,"(43.7402961, 7.426559)",Europe,14
+24,27,"15 - 21 April, 2024","Barcelona, Spain",Barcelona Open Banc Sabadell,,ATP 500,"15 April, 2024","21 April, 2024",2024-04-15,2024-04-21,Barcelona,Spain,"(41.3828939, 2.1774322)",Europe,15
+25,28,"15 - 21 April, 2024","Munich, Germany",BMW Open,,ATP 250,"15 April, 2024","21 April, 2024",2024-04-15,2024-04-21,Munich,Germany,"(48.1371079, 11.5753822)",Europe,15
+26,29,"15 - 21 April, 2024","Bucharest, Romania",Tiriac Open,,ATP 250,"15 April, 2024","21 April, 2024",2024-04-15,2024-04-21,Bucharest,Romania,"(44.4361414, 26.1027202)",Europe,15
+27,30,"24 April - 5 May, 2024","Madrid, Spain",Mutua Madrid Open,,ATP 1000,"24 April, 2024","05 May, 2024",2024-04-24,2024-05-05,Madrid,Spain,"(40.4167047, -3.7035825)",Europe,16
+28,31,"8 - 19 May, 2024","Rome, Italy",Internazionali BNL d'Italia,,ATP 1000,"08 May, 2024","19 May, 2024",2024-05-08,2024-05-19,Rome,Italy,"(41.8933203, 12.4829321)",Europe,17
+29,32,"19 - 25 May, 2024","Geneva, Switzerland",Gonet Geneva Open,,ATP 250,"19 May, 2024","25 May, 2024",2024-05-19,2024-05-25,Geneva,Switzerland,"(46.2047169, 6.1423106290939335)",Europe,18
+30,33,"19 - 25 May, 2024","Lyon, France",Open Parc Auvergne-Rhone-Alpes Lyon,,ATP 250,"19 May, 2024","25 May, 2024",2024-05-19,2024-05-25,Lyon,France,"(45.7578137, 4.8320114)",Europe,18
+31,34,"26 May - 9 June, 2024","Paris, France",Roland Garros,,Grand Slam,"26 May, 2024","09 June, 2024",2024-05-26,2024-06-09,Paris,France,"(48.8534951, 2.3483915)",Europe,19
+32,35,"10 - 16 June, 2024","Stuttgart, Germany",BOSS OPEN,,ATP 250,"10 June, 2024","16 June, 2024",2024-06-10,2024-06-16,Stuttgart,Germany,"(48.7784485, 9.1800132)",Europe,20
+33,36,"10 - 16 June, 2024","'s-Hertogenbosch, Netherlands",Libema Open,,ATP 250,"10 June, 2024","16 June, 2024",2024-06-10,2024-06-16,'s-Hertogenbosch,Netherlands,"(51.6889387, 5.303116)",Europe,20
+34,37,"17 - 23 June, 2024","London, Great Britain",Cinch Championships,,ATP 500,"17 June, 2024","23 June, 2024",2024-06-17,2024-06-23,London,Great Britain,"(51.52378255, -0.1399490000000005)",Europe,21
+35,38,"17 - 23 June, 2024","Halle, Germany",Terra Wortmann Open,,ATP 500,"17 June, 2024","23 June, 2024",2024-06-17,2024-06-23,Halle,Germany,"(51.4825041, 11.9705452)",Europe,21
+36,39,"23 - 29 June, 2024","Mallorca, Spain",Mallorca Championships,,ATP 250,"23 June, 2024","29 June, 2024",2024-06-23,2024-06-29,Mallorca,Spain,"(39.613432, 2.8829184529439633)",Europe,22
+37,40,"24 - 29 June, 2024","Eastbourne, Great Britain",Rothesay International,,ATP 250,"24 June, 2024","29 June, 2024",2024-06-24,2024-06-29,Eastbourne,Great Britain,"(None, None)",Europe,23
+38,41,"1 - 14 July, 2024","London, Great Britain",Wimbledon,,Grand Slam,"01 July, 2024","14 July, 2024",2024-07-01,2024-07-14,London,Great Britain,"(51.52378255, -0.1399490000000005)",Europe,24
+39,42,"15 - 21 July, 2024","Hamburg, Germany",Hamburg Open,,ATP 500,"15 July, 2024","21 July, 2024",2024-07-15,2024-07-21,Hamburg,Germany,"(53.550341, 10.000654)",Europe,25
+40,43,"15 - 21 July, 2024","Newport, United States",Infosys Hall of Fame Open,,ATP 250,"15 July, 2024","21 July, 2024",2024-07-15,2024-07-21,Newport,United States,"(41.4899827, -71.3137707)",North America,25
+41,44,"15 - 21 July, 2024","Gstaad, Switzerland",EFG Swiss Open Gstaad,,ATP 250,"15 July, 2024","21 July, 2024",2024-07-15,2024-07-21,Gstaad,Switzerland,"(46.4761004, 7.2873587)",Europe,25
+42,45,"15 - 21 July, 2024","Bastad, Sweden",Nordea Open,,ATP 250,"15 July, 2024","21 July, 2024",2024-07-15,2024-07-21,Bastad,Sweden,"(56.4267895, 12.8607151)",Europe,25
+43,46,"21 - 27 July, 2024","Kitzbuhel, Austria",Generali Open,,ATP 250,"21 July, 2024","27 July, 2024",2024-07-21,2024-07-27,Kitzbuhel,Austria,"(47.4463585, 12.3911473)",Europe,26
+44,47,"21 - 27 July, 2024","Umag, Croatia",Plava Laguna Croatia Open Umag,,ATP 250,"21 July, 2024","27 July, 2024",2024-07-21,2024-07-27,Umag,Croatia,"(45.4323587, 13.5224098)",Europe,26
+45,48,"22 - 28 July, 2024","Atlanta, United States",Atlanta Open,,ATP 250,"22 July, 2024","28 July, 2024",2024-07-22,2024-07-28,Atlanta,United States,"(33.7489924, -84.3902644)",North America,27
+46,49,"29 July - 4 August, 2024","Washington, United States",Mubadala Citi DC Open,,ATP 500,"29 July, 2024","04 August, 2024",2024-07-29,2024-08-04,Washington,United States,"(38.8950368, -77.0365427)",North America,28
+47,50,"6 - 12 August, 2024","Montreal, Canada",National Bank Open Presented by Rogers,,ATP 1000,"06 August, 2024","12 August, 2024",2024-08-06,2024-08-12,Montreal,Canada,"(45.5031824, -73.5698065)",North America,29
+48,51,"12 - 19 August, 2024","Cincinnati, United States",Cincinnati Open,,ATP 1000,"12 August, 2024","19 August, 2024",2024-08-12,2024-08-19,Cincinnati,United States,"(39.1014537, -84.5124602)",North America,30
+49,52,"18 - 24 August, 2024","Winson-Salem, United States",Winston-Salem Open,,ATP 250,"18 August, 2024","24 August, 2024",2024-08-18,2024-08-24,Winson-Salem,United States,"(None, None)",North America,31
+50,53,"26 August - 8 September, 2024","New York, United States",US Open,,Grand Slam,"26 August, 2024","08 September, 2024",2024-08-26,2024-09-08,New York,United States,"(40.7127281, -74.0060152)",North America,32
+51,55,"18 - 24 September, 2024","Chengdu, China",Chengdu Open,,ATP 250,"18 September, 2024","24 September, 2024",2024-09-18,2024-09-24,Chengdu,China,"(30.7001324, 104.0708278)",Asia,33
+52,56,"18 - 24 September, 2024","Zhuhai, China",Huafa Properties Zhuhai Championships,,ATP 250,"18 September, 2024","24 September, 2024",2024-09-18,2024-09-24,Zhuhai,China,"(22.273734, 113.5721327)",Asia,33
+53,58,"25 September - 1 October, 2024","Tokyo, Japan",Kinoshita Group Japan Open Tennis Championships,,ATP 500,"25 September, 2024","01 October, 2024",2024-09-25,2024-10-01,Tokyo,Japan,"(35.6821936, 139.762221)",Asia,34
+54,59,"26 September - 2 October, 2024","Beijing, China",China Open,,ATP 500,"26 September, 2024","02 October, 2024",2024-09-26,2024-10-02,Beijing,China,"(39.9057136, 116.3912972)",Asia,35
+55,60,"2 - 13 October, 2024","Shanghai, China",Rolex Shanghai Masters,,ATP 1000,"02 October, 2024","13 October, 2024",2024-10-02,2024-10-13,Shanghai,China,"(31.2312707, 121.4700152)",Asia,36
+56,61,"14 - 20 October, 2024","Almaty, Kazakhstan",Almaty Open,,ATP 250,"14 October, 2024","20 October, 2024",2024-10-14,2024-10-20,Almaty,Kazakhstan,"(43.2363924, 76.9457275)",Asia,37
+57,62,"14 - 20 October, 2024","Stockholm, Sweden",BNP Paribas Nordic Open,,ATP 250,"14 October, 2024","20 October, 2024",2024-10-14,2024-10-20,Stockholm,Sweden,"(59.3251172, 18.0710935)",Europe,37
+58,63,"14 - 20 October, 2024","Antwerp, Belgium",European Open,,ATP 250,"14 October, 2024","20 October, 2024",2024-10-14,2024-10-20,Antwerp,Belgium,"(51.2211097, 4.3997081)",Europe,37
+59,64,"21 - 27 October, 2024","Vienna, Austria",Erste Bank Open,,ATP 500,"21 October, 2024","27 October, 2024",2024-10-21,2024-10-27,Vienna,Austria,"(48.2083537, 16.3725042)",Europe,38
+60,65,"21 - 27 October, 2024","Basel, Switzerland",Swiss Indoors Basel,,ATP 500,"21 October, 2024","27 October, 2024",2024-10-21,2024-10-27,Basel,Switzerland,"(47.5581077, 7.5878261)",Europe,38
+61,66,"28 October - 3 November, 2024","Paris, France",Rolex Paris Masters,,ATP 1000,"28 October, 2024","03 November, 2024",2024-10-28,2024-11-03,Paris,France,"(48.8534951, 2.3483915)",Europe,39
+62,67,"3 - 9 November, 2024","Metz, France",Moselle Open,,ATP 250,"03 November, 2024","09 November, 2024",2024-11-03,2024-11-09,Metz,France,"(49.1196964, 6.1763552)",Europe,40
+63,68,"3 - 9 November, 2024","Gijon, Spain",Watergen Gijon Open,,ATP 250,"03 November, 2024","09 November, 2024",2024-11-03,2024-11-09,Gijon,Spain,"(43.5449422, -5.66275)",Europe,40
+64,69,"10 - 17 November, 2024","Turin, Italy",Nitto ATP Finals,,ATP Finals,"10 November, 2024","17 November, 2024",2024-11-10,2024-11-17,Turin,Italy,"(45.0677551, 7.6824892)",Europe,41
+65,71,"18 - 22 December, 2024","Jeddah, Saudi Arabia",Next Gen ATP Finals presented by PIF,,nextgen,"18 December, 2024","22 December, 2024",2024-12-18,2024-12-22,Jeddah,Saudi Arabia,"(21.5810088, 39.1653612)",Asia,42
