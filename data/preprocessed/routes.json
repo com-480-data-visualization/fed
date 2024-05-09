@@ -1,0 +1,722 @@
+{
+    "Brisbane<->Hong Kong": {
+        "from": "Brisbane",
+        "to": "Hong Kong",
+        "mode": "airplane",
+        "duration": 10.639815499713071,
+        "co2": 1.9698779339345804,
+        "dist": 6911.852399770458,
+        "from_coords": {
+            "lat": -27.4689682,
+            "lon": 153.0234991
+        },
+        "to_coords": {
+            "lat": 22.2793278,
+            "lon": 114.1628131
+        },
+        "iata_to": "BNE",
+        "iata_from": "HKG"
+    },
+    "Hong Kong<->Auckland": {
+        "from": "Hong Kong",
+        "to": "Auckland",
+        "mode": "airplane",
+        "duration": 13.40279226403861,
+        "co2": 2.5998366362008034,
+        "dist": 9122.233811230888,
+        "from_coords": {
+            "lat": 22.2793278,
+            "lon": 114.1628131
+        },
+        "to_coords": {
+            "lat": -36.852095,
+            "lon": 174.7631803
+        },
+        "iata_to": "HKG",
+        "iata_from": "AKL"
+    },
+    "Auckland<->Melbourne": {
+        "from": "Auckland",
+        "to": "Melbourne",
+        "mode": "airplane",
+        "duration": 5.2898592848516515,
+        "co2": 0.7500879169461765,
+        "dist": 2631.887427881321,
+        "from_coords": {
+            "lat": -36.852095,
+            "lon": 174.7631803
+        },
+        "to_coords": {
+            "lat": -37.8142454,
+            "lon": 144.9631732
+        },
+        "iata_to": "AKL",
+        "iata_from": "MEL"
+    },
+    "Melbourne<->Montpellier": {
+        "from": "Melbourne",
+        "to": "Montpellier",
+        "mode": "airplane",
+        "duration": 22.878094482976177,
+        "co2": 4.760205542118568,
+        "dist": 16702.47558638094,
+        "from_coords": {
+            "lat": -37.8142454,
+            "lon": 144.9631732
+        },
+        "to_coords": {
+            "lat": 43.6112422,
+            "lon": 3.8767337
+        },
+        "iata_to": "MEL",
+        "iata_from": "MPL"
+    },
+    "Montpellier<->Cordoba": {
+        "from": "Montpellier",
+        "to": "Cordoba",
+        "mode": "airplane",
+        "duration": 15.511969821710366,
+        "co2": 3.0807291193499635,
+        "dist": 10809.575857368292,
+        "from_coords": {
+            "lat": 43.6112422,
+            "lon": 3.8767337
+        },
+        "to_coords": {
+            "lat": -31.4166867,
+            "lon": -64.1834193
+        },
+        "iata_to": "MPL",
+        "iata_from": "COR"
+    },
+    "Cordoba<->Buenos Aires": {
+        "from": "Cordoba",
+        "to": "Buenos Aires",
+        "mode": "train",
+        "duration": 21.593888888888888,
+        "co2": 0.009057947557125,
+        "dist": 646.9962540803634,
+        "from_coords": {
+            "lat": -31.4166867,
+            "lon": -64.1834193
+        },
+        "to_coords": {
+            "lat": -34.6037181,
+            "lon": -58.38153
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Buenos Aires<->Doha": {
+        "from": "Buenos Aires",
+        "to": "Doha",
+        "mode": "airplane",
+        "duration": 18.640475925848488,
+        "co2": 3.794028511093454,
+        "dist": 13312.38074067879,
+        "from_coords": {
+            "lat": -34.6037181,
+            "lon": -58.38153
+        },
+        "to_coords": {
+            "lat": 25.2856329,
+            "lon": 51.5264162
+        },
+        "iata_to": "EZE",
+        "iata_from": "DOH"
+    },
+    "Doha<->Rio de Janeiro": {
+        "from": "Doha",
+        "to": "Rio de Janeiro",
+        "mode": "airplane",
+        "duration": 16.398115376866485,
+        "co2": 3.282770305925559,
+        "dist": 11518.492301493188,
+        "from_coords": {
+            "lat": 25.2856329,
+            "lon": 51.5264162
+        },
+        "to_coords": {
+            "lat": -22.9110137,
+            "lon": -43.2093727
+        },
+        "iata_to": "DOH",
+        "iata_from": "GIG"
+    },
+    "Rio de Janeiro<->Dubai": {
+        "from": "Rio de Janeiro",
+        "to": "Dubai",
+        "mode": "airplane",
+        "duration": 16.826645557090266,
+        "co2": 3.380475187016581,
+        "dist": 11861.316445672212,
+        "from_coords": {
+            "lat": -22.9110137,
+            "lon": -43.2093727
+        },
+        "to_coords": {
+            "lat": 25.074282349999997,
+            "lon": 55.18853865430702
+        },
+        "iata_to": "GIG",
+        "iata_from": "DXB"
+    },
+    "Dubai<->Santiago": {
+        "from": "Dubai",
+        "to": "Santiago",
+        "mode": "airplane",
+        "duration": 20.42543604766939,
+        "co2": 4.200999418868621,
+        "dist": 14740.348838135513,
+        "from_coords": {
+            "lat": 25.074282349999997,
+            "lon": 55.18853865430702
+        },
+        "to_coords": {
+            "lat": -33.4377756,
+            "lon": -70.6504502
+        },
+        "iata_to": "DXB",
+        "iata_from": "SCL"
+    },
+    "Santiago<->Indian Wells": {
+        "from": "Santiago",
+        "to": "Indian Wells",
+        "mode": "airplane",
+        "duration": 13.04584279031574,
+        "co2": 2.5184521561919886,
+        "dist": 8836.674232252592,
+        "from_coords": {
+            "lat": -33.4377756,
+            "lon": -70.6504502
+        },
+        "to_coords": {
+            "lat": 33.7217965,
+            "lon": -116.338303
+        },
+        "iata_to": "SCL",
+        "iata_from": "PSP"
+    },
+    "Indian Wells<->Miami": {
+        "from": "Indian Wells",
+        "to": "Miami",
+        "mode": "train",
+        "duration": 66.90444444444445,
+        "co2": 0.0502016873656336,
+        "dist": 3585.834811830976,
+        "from_coords": {
+            "lat": 33.7217965,
+            "lon": -116.338303
+        },
+        "to_coords": {
+            "lat": 25.7741728,
+            "lon": -80.19362
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Miami<->Houston": {
+        "from": "Miami",
+        "to": "Houston",
+        "mode": "train",
+        "duration": 25.95638888888889,
+        "co2": 0.0218138036189277,
+        "dist": 1558.128829923413,
+        "from_coords": {
+            "lat": 25.7741728,
+            "lon": -80.19362
+        },
+        "to_coords": {
+            "lat": 29.7589382,
+            "lon": -95.3676974
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Houston<->Monte-Carlo": {
+        "from": "Houston",
+        "to": "Monte-Carlo",
+        "mode": "airplane",
+        "duration": 12.894178037818168,
+        "co2": 2.4838725926225425,
+        "dist": 8715.342430254534,
+        "from_coords": {
+            "lat": 29.7589382,
+            "lon": -95.3676974
+        },
+        "to_coords": {
+            "lat": 43.7402961,
+            "lon": 7.426559
+        },
+        "iata_to": "IAH",
+        "iata_from": "NCE"
+    },
+    "Monte-Carlo<->Bucharest": {
+        "from": "Monte-Carlo",
+        "to": "Bucharest",
+        "mode": "train",
+        "duration": 40.57805555555556,
+        "co2": 0.0209225466628847,
+        "dist": 1494.4676187774828,
+        "from_coords": {
+            "lat": 43.7402961,
+            "lon": 7.426559
+        },
+        "to_coords": {
+            "lat": 44.4361414,
+            "lon": 26.1027202
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Bucharest<->Madrid": {
+        "from": "Bucharest",
+        "to": "Madrid",
+        "mode": "train",
+        "duration": 46.281666666666666,
+        "co2": 0.0347049805782458,
+        "dist": 2478.9271841604173,
+        "from_coords": {
+            "lat": 44.4361414,
+            "lon": 26.1027202
+        },
+        "to_coords": {
+            "lat": 40.4167047,
+            "lon": -3.7035825
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Madrid<->Rome": {
+        "from": "Madrid",
+        "to": "Rome",
+        "mode": "car",
+        "duration": 19.939166666666665,
+        "co2": 0.2650906544419899,
+        "dist": 1366.4466723813912,
+        "from_coords": {
+            "lat": 40.4167047,
+            "lon": -3.7035825
+        },
+        "to_coords": {
+            "lat": 41.8933203,
+            "lon": 12.4829321
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Rome<->Geneva": {
+        "from": "Rome",
+        "to": "Geneva",
+        "mode": "train",
+        "duration": 15.1225,
+        "co2": 0.009770999061331,
+        "dist": 697.9285043807874,
+        "from_coords": {
+            "lat": 41.8933203,
+            "lon": 12.4829321
+        },
+        "to_coords": {
+            "lat": 46.2047169,
+            "lon": 6.1423106290939335
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Geneva<->Paris": {
+        "from": "Geneva",
+        "to": "Paris",
+        "mode": "car",
+        "duration": 5.394166666666667,
+        "co2": 0.0795783930801515,
+        "dist": 410.19790247500816,
+        "from_coords": {
+            "lat": 46.2047169,
+            "lon": 6.1423106290939335
+        },
+        "to_coords": {
+            "lat": 48.8534951,
+            "lon": 2.3483915
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Paris<->Stuttgart": {
+        "from": "Paris",
+        "to": "Stuttgart",
+        "mode": "car",
+        "duration": 6.597222222222222,
+        "co2": 0.0973146468117512,
+        "dist": 501.6218907822227,
+        "from_coords": {
+            "lat": 48.8534951,
+            "lon": 2.3483915
+        },
+        "to_coords": {
+            "lat": 48.7784485,
+            "lon": 9.1800132
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Stuttgart<->London-West": {
+        "from": "Stuttgart",
+        "to": "London-West",
+        "mode": "car",
+        "duration": 10.534444444444444,
+        "co2": 0.1420204302853977,
+        "dist": 732.064073636071,
+        "from_coords": {
+            "lat": 48.7784485,
+            "lon": 9.1800132
+        },
+        "to_coords": {
+            "lat": 51.52378255,
+            "lon": -0.1399490000000005
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "London-West<->Mallorca": {
+        "from": "London-West",
+        "to": "Mallorca",
+        "mode": "airplane",
+        "duration": 3.680383967353384,
+        "co2": 0.3831275445565715,
+        "dist": 1344.307173882707,
+        "from_coords": {
+            "lat": 51.52378255,
+            "lon": -0.1399490000000005
+        },
+        "to_coords": {
+            "lat": 39.613432,
+            "lon": 2.8829184529439633
+        },
+        "iata_to": "LGW",
+        "iata_from": "PMI"
+    },
+    "Mallorca<->Eastbourne": {
+        "from": "Mallorca",
+        "to": "Eastbourne",
+        "mode": "airplane",
+        "duration": 7.495515158047548,
+        "co2": 1.2529774560348408,
+        "dist": 4396.412126438038,
+        "from_coords": {
+            "lat": 39.613432,
+            "lon": 2.8829184529439633
+        },
+        "to_coords": {
+            "lat": 50.768035,
+            "lon": 0.290472
+        },
+        "iata_to": "PMI",
+        "iata_from": "LGW"
+    },
+    "Eastbourne<->London": {
+        "from": "Eastbourne",
+        "to": "London",
+        "mode": "airplane",
+        "duration": 9.137966826045696,
+        "co2": 1.6274564363384183,
+        "dist": 5710.373460836557,
+        "from_coords": {
+            "lat": 50.768035,
+            "lon": 0.290472
+        },
+        "to_coords": {
+            "lat": 51.52378255,
+            "lon": -0.1399490000000005
+        },
+        "iata_to": "LGW",
+        "iata_from": "LHR"
+    },
+    "London<->Bastad": {
+        "from": "London",
+        "to": "Bastad",
+        "mode": "train",
+        "duration": 21.02888888888889,
+        "co2": 0.0141425949722945,
+        "dist": 1010.1853551638974,
+        "from_coords": {
+            "lat": 51.52378255,
+            "lon": -0.1399490000000005
+        },
+        "to_coords": {
+            "lat": 56.4267895,
+            "lon": 12.8607151
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Bastad<->Umag": {
+        "from": "Bastad",
+        "to": "Umag",
+        "mode": "train",
+        "duration": 27.95888888888889,
+        "co2": 0.0171354178925746,
+        "dist": 1223.958420898187,
+        "from_coords": {
+            "lat": 56.4267895,
+            "lon": 12.8607151
+        },
+        "to_coords": {
+            "lat": 45.4323587,
+            "lon": 13.5224098
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Umag<->Atlanta": {
+        "from": "Umag",
+        "to": "Atlanta",
+        "mode": "airplane",
+        "duration": 11.976705157240987,
+        "co2": 2.2746887758509446,
+        "dist": 7981.364125792789,
+        "from_coords": {
+            "lat": 45.4323587,
+            "lon": 13.5224098
+        },
+        "to_coords": {
+            "lat": 33.7489924,
+            "lon": -84.3902644
+        },
+        "iata_to": "PUY",
+        "iata_from": "ATL"
+    },
+    "Atlanta<->Washington": {
+        "from": "Atlanta",
+        "to": "Washington",
+        "mode": "train",
+        "duration": 17.095277777777778,
+        "co2": 0.0122140420276286,
+        "dist": 872.4315734020432,
+        "from_coords": {
+            "lat": 33.7489924,
+            "lon": -84.3902644
+        },
+        "to_coords": {
+            "lat": 38.8950368,
+            "lon": -77.0365427
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Washington<->Montreal": {
+        "from": "Washington",
+        "to": "Montreal",
+        "mode": "train",
+        "duration": 15.674166666666666,
+        "co2": 0.0110274556363324,
+        "dist": 787.6754025951728,
+        "from_coords": {
+            "lat": 38.8950368,
+            "lon": -77.0365427
+        },
+        "to_coords": {
+            "lat": 45.5031824,
+            "lon": -73.5698065
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Montreal<->Cincinnati": {
+        "from": "Montreal",
+        "to": "Cincinnati",
+        "mode": "train",
+        "duration": 20.512777777777774,
+        "co2": 0.0160587574819845,
+        "dist": 1147.0541058560368,
+        "from_coords": {
+            "lat": 45.5031824,
+            "lon": -73.5698065
+        },
+        "to_coords": {
+            "lat": 39.1014537,
+            "lon": -84.5124602
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Cincinnati<->Winston-Salem": {
+        "from": "Cincinnati",
+        "to": "Winston-Salem",
+        "mode": "airplane",
+        "duration": 13.922086165063169,
+        "co2": 2.718235645634402,
+        "dist": 436,
+        "from_coords": {
+            "lat": 39.1014537,
+            "lon": -84.5124602
+        },
+        "to_coords": {
+            "lat": 36.099861,
+            "lon": -80.244217
+        },
+        "iata_to": "CVG",
+        "iata_from": "GSO"
+    },
+    "Winston-Salem<->New York": {
+        "from": "Winston-Salem",
+        "to": "New York",
+        "mode": "airplane",
+        "duration": 12.834279366406722,
+        "co2": 2.4702156955407326,
+        "dist": 766,
+        "from_coords": {
+            "lat": 36.099861,
+            "lon": -80.244217
+        },
+        "to_coords": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+        },
+        "iata_to": "GSO",
+        "iata_from": "JFK"
+    },
+    "New York<->Zhuhai": {
+        "from": "New York",
+        "to": "Zhuhai",
+        "mode": "airplane",
+        "duration": 18.234315039474875,
+        "co2": 3.7014238290002712,
+        "dist": 12987.4520315799,
+        "from_coords": {
+            "lat": 40.7127281,
+            "lon": -74.0060152
+        },
+        "to_coords": {
+            "lat": 22.273734,
+            "lon": 113.5721327
+        },
+        "iata_to": "JFK",
+        "iata_from": "ZUH"
+    },
+    "Zhuhai<->Tokyo": {
+        "from": "Zhuhai",
+        "to": "Tokyo",
+        "mode": "airplane",
+        "duration": 5.674099677427712,
+        "co2": 0.8376947264535185,
+        "dist": 2939.27974194217,
+        "from_coords": {
+            "lat": 22.273734,
+            "lon": 113.5721327
+        },
+        "to_coords": {
+            "lat": 35.6821936,
+            "lon": 139.762221
+        },
+        "iata_to": "ZUH",
+        "iata_from": "NRT"
+    },
+    "Tokyo<->Beijing": {
+        "from": "Tokyo",
+        "to": "Beijing",
+        "mode": "airplane",
+        "duration": 4.630753342005736,
+        "co2": 0.599811761977308,
+        "dist": 2104.602673604589,
+        "from_coords": {
+            "lat": 35.6821936,
+            "lon": 139.762221
+        },
+        "to_coords": {
+            "lat": 39.9057136,
+            "lon": 116.3912972
+        },
+        "iata_to": "NRT",
+        "iata_from": "PEK"
+    },
+    "Beijing<->Shanghai": {
+        "from": "Beijing",
+        "to": "Shanghai",
+        "mode": "airplane",
+        "duration": 3.332988763745144,
+        "co2": 0.3039214381338928,
+        "dist": 1066.3910109961153,
+        "from_coords": {
+            "lat": 39.9057136,
+            "lon": 116.3912972
+        },
+        "to_coords": {
+            "lat": 31.2312707,
+            "lon": 121.4700152
+        },
+        "iata_to": "PEK",
+        "iata_from": "SHA"
+    },
+    "Shanghai<->Antwerp": {
+        "from": "Shanghai",
+        "to": "Antwerp",
+        "mode": "airplane",
+        "duration": 13.251113018685176,
+        "co2": 2.56525376826022,
+        "dist": 9000.89041494814,
+        "from_coords": {
+            "lat": 31.2312707,
+            "lon": 121.4700152
+        },
+        "to_coords": {
+            "lat": 51.2211097,
+            "lon": 4.3997081
+        },
+        "iata_to": "SHA",
+        "iata_from": "ANR"
+    },
+    "Antwerp<->Vienna": {
+        "from": "Antwerp",
+        "to": "Vienna",
+        "mode": "train",
+        "duration": 14.948333333333334,
+        "co2": 0.0129482212132449,
+        "dist": 924.8729438032104,
+        "from_coords": {
+            "lat": 51.2211097,
+            "lon": 4.3997081
+        },
+        "to_coords": {
+            "lat": 48.2083537,
+            "lon": 16.3725042
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Vienna<->Paris-Bercy": {
+        "from": "Vienna",
+        "to": "Paris-Bercy",
+        "mode": "car",
+        "duration": 12.762222222222222,
+        "co2": 0.2011342916589984,
+        "dist": 1036.7746992731877,
+        "from_coords": {
+            "lat": 48.2083537,
+            "lon": 16.3725042
+        },
+        "to_coords": {
+            "lat": 48.8534951,
+            "lon": 2.3483915
+        },
+        "iata_to": "",
+        "iata_from": ""
+    },
+    "Paris-Bercy<->Gijon": {
+        "from": "Paris-Bercy",
+        "to": "Gijon",
+        "mode": "train",
+        "duration": 17.069166666666668,
+        "co2": 0.011953705312687,
+        "dist": 853.8360937633599,
+        "from_coords": {
+            "lat": 48.8534951,
+            "lon": 2.3483915
+        },
+        "to_coords": {
+            "lat": 43.5449422,
+            "lon": -5.66275
+        },
+        "iata_to": "",
+        "iata_from": ""
+    }
+}
