@@ -1,0 +1,616 @@
+{
+  "2023-12-31-2024-01-07": [
+    {
+      "from_dt": "2023-12-31",
+      "to_dt": "2024-01-07",
+      "city": "Brisbane",
+      "country": "Australia",
+      "coords": "(-27.4689682, 153.0234991)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-01-01-2024-01-07": [
+    {
+      "from_dt": "2024-01-01",
+      "to_dt": "2024-01-07",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "coords": "(22.2793278, 114.1628131)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-01-08-2024-01-13": [
+    {
+      "from_dt": "2024-01-08",
+      "to_dt": "2024-01-13",
+      "city": "Adelaide",
+      "country": "Australia",
+      "coords": "(-34.9281805, 138.5999312)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-01-08",
+      "to_dt": "2024-01-13",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "coords": "(-36.852095, 174.7631803)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-01-14-2024-01-28": [
+    {
+      "from_dt": "2024-01-14",
+      "to_dt": "2024-01-28",
+      "city": "Melbourne",
+      "country": "Australia",
+      "coords": "(-37.8142454, 144.9631732)",
+      "cat": "Grand Slam"
+    }
+  ],
+  "2024-01-29-2024-02-04": [
+    {
+      "from_dt": "2024-01-29",
+      "to_dt": "2024-02-04",
+      "city": "Montpellier",
+      "country": "France",
+      "coords": "(43.6112422, 3.8767337)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-02-05-2024-02-11": [
+    {
+      "from_dt": "2024-02-05",
+      "to_dt": "2024-02-11",
+      "city": "Dallas",
+      "country": "United States",
+      "coords": "(32.7762719, -96.7968559)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-02-05",
+      "to_dt": "2024-02-11",
+      "city": "Marseille",
+      "country": "France",
+      "coords": "(43.2961743, 5.3699525)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-02-05",
+      "to_dt": "2024-02-11",
+      "city": "Cordoba",
+      "country": "Argentina",
+      "coords": "(-31.4166867, -64.1834193)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-02-12-2024-02-18": [
+    {
+      "from_dt": "2024-02-12",
+      "to_dt": "2024-02-18",
+      "city": "Rotterdam",
+      "country": "Netherlands",
+      "coords": "(51.9244424, 4.47775)",
+      "cat": "ATP 500"
+    },
+    {
+      "from_dt": "2024-02-12",
+      "to_dt": "2024-02-18",
+      "city": "Delray Beach",
+      "country": "United States",
+      "coords": "(26.4614625, -80.0728201)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-02-12",
+      "to_dt": "2024-02-18",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "coords": "(-34.6037181, -58.38153)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-02-19-2024-02-25": [
+    {
+      "from_dt": "2024-02-19",
+      "to_dt": "2024-02-25",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "coords": "(-22.9110137, -43.2093727)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-02-19-2024-02-24": [
+    {
+      "from_dt": "2024-02-19",
+      "to_dt": "2024-02-24",
+      "city": "Doha",
+      "country": "Qatar",
+      "coords": "(25.2856329, 51.5264162)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-02-19",
+      "to_dt": "2024-02-24",
+      "city": "Los Cabos",
+      "country": "Mexico",
+      "coords": "(21.166121, -100.936442)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-02-26-2024-03-02": [
+    {
+      "from_dt": "2024-02-26",
+      "to_dt": "2024-03-02",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "coords": "(25.074282349999997, 55.18853865430702)",
+      "cat": "ATP 500"
+    },
+    {
+      "from_dt": "2024-02-26",
+      "to_dt": "2024-03-02",
+      "city": "Acapulco",
+      "country": "Mexico",
+      "coords": "(16.8680495, -99.8940182)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-02-26-2024-03-03": [
+    {
+      "from_dt": "2024-02-26",
+      "to_dt": "2024-03-03",
+      "city": "Santiago",
+      "country": "Chile",
+      "coords": "(-33.4377756, -70.6504502)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-03-06-2024-03-17": [
+    {
+      "from_dt": "2024-03-06",
+      "to_dt": "2024-03-17",
+      "city": "Indian Wells",
+      "country": "United States",
+      "coords": "(33.7217965, -116.338303)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-03-20-2024-03-31": [
+    {
+      "from_dt": "2024-03-20",
+      "to_dt": "2024-03-31",
+      "city": "Miami",
+      "country": "United States",
+      "coords": "(25.7741728, -80.19362)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-04-01-2024-04-07": [
+    {
+      "from_dt": "2024-04-01",
+      "to_dt": "2024-04-07",
+      "city": "Houston",
+      "country": "United States",
+      "coords": "(29.7589382, -95.3676974)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-04-01",
+      "to_dt": "2024-04-07",
+      "city": "Marrakech",
+      "country": "Morocco",
+      "coords": "(31.6258257, -7.9891608)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-04-01",
+      "to_dt": "2024-04-07",
+      "city": "Estoril",
+      "country": "Portugal",
+      "coords": "(38.70957065, -9.390136815849147)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-04-07-2024-04-14": [
+    {
+      "from_dt": "2024-04-07",
+      "to_dt": "2024-04-14",
+      "city": "Monte-Carlo",
+      "country": "Monaco",
+      "coords": "(43.7402961, 7.426559)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-04-15-2024-04-21": [
+    {
+      "from_dt": "2024-04-15",
+      "to_dt": "2024-04-21",
+      "city": "Barcelona",
+      "country": "Spain",
+      "coords": "(41.3828939, 2.1774322)",
+      "cat": "ATP 500"
+    },
+    {
+      "from_dt": "2024-04-15",
+      "to_dt": "2024-04-21",
+      "city": "Munich",
+      "country": "Germany",
+      "coords": "(48.1371079, 11.5753822)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-04-15",
+      "to_dt": "2024-04-21",
+      "city": "Bucharest",
+      "country": "Romania",
+      "coords": "(44.4361414, 26.1027202)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-04-24-2024-05-05": [
+    {
+      "from_dt": "2024-04-24",
+      "to_dt": "2024-05-05",
+      "city": "Madrid",
+      "country": "Spain",
+      "coords": "(40.4167047, -3.7035825)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-05-08-2024-05-19": [
+    {
+      "from_dt": "2024-05-08",
+      "to_dt": "2024-05-19",
+      "city": "Rome",
+      "country": "Italy",
+      "coords": "(41.8933203, 12.4829321)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-05-19-2024-05-25": [
+    {
+      "from_dt": "2024-05-19",
+      "to_dt": "2024-05-25",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "coords": "(46.2047169, 6.1423106290939335)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-05-19",
+      "to_dt": "2024-05-25",
+      "city": "Lyon",
+      "country": "France",
+      "coords": "(45.7578137, 4.8320114)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-05-26-2024-06-09": [
+    {
+      "from_dt": "2024-05-26",
+      "to_dt": "2024-06-09",
+      "city": "Paris",
+      "country": "France",
+      "coords": "(48.8534951, 2.3483915)",
+      "cat": "Grand Slam"
+    }
+  ],
+  "2024-06-10-2024-06-16": [
+    {
+      "from_dt": "2024-06-10",
+      "to_dt": "2024-06-16",
+      "city": "Stuttgart",
+      "country": "Germany",
+      "coords": "(48.7784485, 9.1800132)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-06-10",
+      "to_dt": "2024-06-16",
+      "city": "'s-Hertogenbosch",
+      "country": "Netherlands",
+      "coords": "(51.6889387, 5.303116)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-06-17-2024-06-23": [
+    {
+      "from_dt": "2024-06-17",
+      "to_dt": "2024-06-23",
+      "city": "London",
+      "country": "Great Britain",
+      "coords": "(51.52378255, -0.1399490000000005)",
+      "cat": "ATP 500"
+    },
+    {
+      "from_dt": "2024-06-17",
+      "to_dt": "2024-06-23",
+      "city": "Halle",
+      "country": "Germany",
+      "coords": "(51.4825041, 11.9705452)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-06-23-2024-06-29": [
+    {
+      "from_dt": "2024-06-23",
+      "to_dt": "2024-06-29",
+      "city": "Mallorca",
+      "country": "Spain",
+      "coords": "(39.613432, 2.8829184529439633)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-06-24-2024-06-29": [
+    {
+      "from_dt": "2024-06-24",
+      "to_dt": "2024-06-29",
+      "city": "Eastbourne",
+      "country": "Great Britain",
+      "coords": "(None, None)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-07-01-2024-07-14": [
+    {
+      "from_dt": "2024-07-01",
+      "to_dt": "2024-07-14",
+      "city": "London",
+      "country": "Great Britain",
+      "coords": "(51.52378255, -0.1399490000000005)",
+      "cat": "Grand Slam"
+    }
+  ],
+  "2024-07-15-2024-07-21": [
+    {
+      "from_dt": "2024-07-15",
+      "to_dt": "2024-07-21",
+      "city": "Hamburg",
+      "country": "Germany",
+      "coords": "(53.550341, 10.000654)",
+      "cat": "ATP 500"
+    },
+    {
+      "from_dt": "2024-07-15",
+      "to_dt": "2024-07-21",
+      "city": "Newport",
+      "country": "United States",
+      "coords": "(41.4899827, -71.3137707)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-07-15",
+      "to_dt": "2024-07-21",
+      "city": "Gstaad",
+      "country": "Switzerland",
+      "coords": "(46.4761004, 7.2873587)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-07-15",
+      "to_dt": "2024-07-21",
+      "city": "Bastad",
+      "country": "Sweden",
+      "coords": "(56.4267895, 12.8607151)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-07-21-2024-07-27": [
+    {
+      "from_dt": "2024-07-21",
+      "to_dt": "2024-07-27",
+      "city": "Kitzbuhel",
+      "country": "Austria",
+      "coords": "(47.4463585, 12.3911473)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-07-21",
+      "to_dt": "2024-07-27",
+      "city": "Umag",
+      "country": "Croatia",
+      "coords": "(45.4323587, 13.5224098)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-07-22-2024-07-28": [
+    {
+      "from_dt": "2024-07-22",
+      "to_dt": "2024-07-28",
+      "city": "Atlanta",
+      "country": "United States",
+      "coords": "(33.7489924, -84.3902644)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-07-29-2024-08-04": [
+    {
+      "from_dt": "2024-07-29",
+      "to_dt": "2024-08-04",
+      "city": "Washington",
+      "country": "United States",
+      "coords": "(38.8950368, -77.0365427)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-08-06-2024-08-12": [
+    {
+      "from_dt": "2024-08-06",
+      "to_dt": "2024-08-12",
+      "city": "Montreal",
+      "country": "Canada",
+      "coords": "(45.5031824, -73.5698065)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-08-12-2024-08-19": [
+    {
+      "from_dt": "2024-08-12",
+      "to_dt": "2024-08-19",
+      "city": "Cincinnati",
+      "country": "United States",
+      "coords": "(39.1014537, -84.5124602)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-08-18-2024-08-24": [
+    {
+      "from_dt": "2024-08-18",
+      "to_dt": "2024-08-24",
+      "city": "Winson-Salem",
+      "country": "United States",
+      "coords": "(None, None)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-08-26-2024-09-08": [
+    {
+      "from_dt": "2024-08-26",
+      "to_dt": "2024-09-08",
+      "city": "New York",
+      "country": "United States",
+      "coords": "(40.7127281, -74.0060152)",
+      "cat": "Grand Slam"
+    }
+  ],
+  "2024-09-18-2024-09-24": [
+    {
+      "from_dt": "2024-09-18",
+      "to_dt": "2024-09-24",
+      "city": "Chengdu",
+      "country": "China",
+      "coords": "(30.7001324, 104.0708278)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-09-18",
+      "to_dt": "2024-09-24",
+      "city": "Zhuhai",
+      "country": "China",
+      "coords": "(22.273734, 113.5721327)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-09-25-2024-10-01": [
+    {
+      "from_dt": "2024-09-25",
+      "to_dt": "2024-10-01",
+      "city": "Tokyo",
+      "country": "Japan",
+      "coords": "(35.6821936, 139.762221)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-09-26-2024-10-02": [
+    {
+      "from_dt": "2024-09-26",
+      "to_dt": "2024-10-02",
+      "city": "Beijing",
+      "country": "China",
+      "coords": "(39.9057136, 116.3912972)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-10-02-2024-10-13": [
+    {
+      "from_dt": "2024-10-02",
+      "to_dt": "2024-10-13",
+      "city": "Shanghai",
+      "country": "China",
+      "coords": "(31.2312707, 121.4700152)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-10-14-2024-10-20": [
+    {
+      "from_dt": "2024-10-14",
+      "to_dt": "2024-10-20",
+      "city": "Almaty",
+      "country": "Kazakhstan",
+      "coords": "(43.2363924, 76.9457275)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-10-14",
+      "to_dt": "2024-10-20",
+      "city": "Stockholm",
+      "country": "Sweden",
+      "coords": "(59.3251172, 18.0710935)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-10-14",
+      "to_dt": "2024-10-20",
+      "city": "Antwerp",
+      "country": "Belgium",
+      "coords": "(51.2211097, 4.3997081)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-10-21-2024-10-27": [
+    {
+      "from_dt": "2024-10-21",
+      "to_dt": "2024-10-27",
+      "city": "Vienna",
+      "country": "Austria",
+      "coords": "(48.2083537, 16.3725042)",
+      "cat": "ATP 500"
+    },
+    {
+      "from_dt": "2024-10-21",
+      "to_dt": "2024-10-27",
+      "city": "Basel",
+      "country": "Switzerland",
+      "coords": "(47.5581077, 7.5878261)",
+      "cat": "ATP 500"
+    }
+  ],
+  "2024-10-28-2024-11-03": [
+    {
+      "from_dt": "2024-10-28",
+      "to_dt": "2024-11-03",
+      "city": "Paris",
+      "country": "France",
+      "coords": "(48.8534951, 2.3483915)",
+      "cat": "ATP 1000"
+    }
+  ],
+  "2024-11-03-2024-11-09": [
+    {
+      "from_dt": "2024-11-03",
+      "to_dt": "2024-11-09",
+      "city": "Metz",
+      "country": "France",
+      "coords": "(49.1196964, 6.1763552)",
+      "cat": "ATP 250"
+    },
+    {
+      "from_dt": "2024-11-03",
+      "to_dt": "2024-11-09",
+      "city": "Gijon",
+      "country": "Spain",
+      "coords": "(43.5449422, -5.66275)",
+      "cat": "ATP 250"
+    }
+  ],
+  "2024-11-10-2024-11-17": [
+    {
+      "from_dt": "2024-11-10",
+      "to_dt": "2024-11-17",
+      "city": "Turin",
+      "country": "Italy",
+      "coords": "(45.0677551, 7.6824892)",
+      "cat": "ATP Finals"
+    }
+  ],
+  "2024-12-18-2024-12-22": [
+    {
+      "from_dt": "2024-12-18",
+      "to_dt": "2024-12-22",
+      "city": "Jeddah",
+      "country": "Saudi Arabia",
+      "coords": "(21.5810088, 39.1653612)",
+      "cat": "NextGen"
+    }
+  ]
+}
