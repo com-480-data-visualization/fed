@@ -347,7 +347,7 @@
       "to_dt": "2024-06-29",
       "city": "Eastbourne",
       "country": "Great Britain",
-      "coords": "(None, None)",
+      "coords": "(50.768036, 0.290472)",
       "cat": "ATP 250"
     }
   ],
@@ -457,9 +457,9 @@
     {
       "from_dt": "2024-08-18",
       "to_dt": "2024-08-24",
-      "city": "Winson-Salem",
+      "city": "Winston-Salem",
       "country": "United States",
-      "coords": "(None, None)",
+      "coords": "(36.099861, -80.244)",
       "cat": "ATP 250"
     }
   ],
